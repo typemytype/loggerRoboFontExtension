@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addToMenu</key>
+	<array>
+		<dict>
+			<key>path</key>
+			<string>extensionLogViewer.py</string>
+			<key>preferredName</key>
+			<string>Logger</string>
+			<key>shortKey</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>developer</key>
+	<string>TypeMyType</string>
+	<key>developerURL</key>
+	<string>http://typemytype.com</string>
+	<key>html</key>
+	<false/>
+	<key>launchAtStartUp</key>
+	<integer>0</integer>
+	<key>mainScript</key>
+	<string></string>
+	<key>name</key>
+	<string>Logger</string>
+	<key>requiresVersionMajor</key>
+	<string>1</string>
+	<key>requiresVersionMinor</key>
+	<string>6</string>
+	<key>timeStamp</key>
+	<real>1425244186.174849</real>
+	<key>version</key>
+	<string>1.0</string>
+	<key>repository</key>
+	<string>typemytype/RoboFontExtensions</string>
+	<key>extensionPath</key>
+	<string>logger/Logger.roboFontExt</string>
+</dict>
+</plist>
