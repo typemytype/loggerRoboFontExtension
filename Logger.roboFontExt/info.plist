@@ -37,6 +37,8 @@
 	<dict>
 		<key>repository</key>
 		<string>typemytype/loggerRoboFontExtension</string>
+		<key>summary</key>
+		<string>A developer helper shows internal RoboFont notification logs.</string>
 	</dict>
 </dict>
 </plist>
